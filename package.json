@@ -1,0 +1,22 @@
+{
+  "name": "china_holiday",
+  "version": "1.0.0",
+  "description": "判断中国法定节假日的类型",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuqingq/china_holiday.git"
+  },
+  "author": "chuqingq@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuqingq/china_holiday/issues"
+  },
+  "homepage": "https://github.com/chuqingq/china_holiday#readme"
+}
